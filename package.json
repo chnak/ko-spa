@@ -1,0 +1,25 @@
+{
+  "name": "gulp-ko-browserify-test",
+  "version": "1.0.0",
+  "description": "testing the entire thing",
+  "dependencies": {
+    "knockout": "^3.4.0",
+    "jquery": "~2.2.3",
+    "hasher": "~1.2.0",
+    "express": "~4.13.4",
+    "body-parser": "~1.15.0",
+    "serve-static": "~1.10.2"
+  },
+  "devDependencies": {
+    "gulp-browserify": "^0.5.0",
+    "gulp": "^3.8.8",
+    "gulp-open": "^0.2.8",
+    "gulp-rimraf": "^0.1.0",
+    "gulp-serve": "^0.2.0",
+    "gulp-uglify": "^1.0.1",
+    "gulp-minify-html": "^0.1.5",
+    "gulp-watch": "^1.0.7"
+  },
+  "author": "",
+  "license": "MIT"
+}
